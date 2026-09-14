@@ -1,6 +1,6 @@
-# 刘坤
+# LK
 
-**软件测试工程师 · 求职中**
+**测试工程师 · 求职中**
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![pytest](https://img.shields.io/badge/pytest-8.3.4-green)
